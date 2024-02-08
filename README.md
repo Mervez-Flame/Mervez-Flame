@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mervez-Flame.
+- 👋 Hi, I’m Jason Mark-Igbani.
 - 👀 I’m interested in any programming language.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I am a Junior Fullstack Developer
 - 💞️ I’m looking to collaborate on any Web Building Project.
 - 📫 How to reach me Whatsapp me on +2348077497411.
 
